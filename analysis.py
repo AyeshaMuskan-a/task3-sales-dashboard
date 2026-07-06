@@ -171,10 +171,3 @@ plt.xlabel("Month")
 plt.ylabel("Revenue")
 plt.legend()
 plt.show()
-
-# ==========================================
-# 15. SAVE CLEAN DATA
-# ==========================================
-df.to_csv("clean_sales_data.csv", index=False)
-
-print("\n--- Clean Data Saved Successfully ---")
