@@ -1,0 +1,500 @@
+Order_ID	Order_Date	Customer_Name	City	State	Region	Country	Category	Sub_Category	Product_Name	Quantity	 Unit_Price 	 Revenue 	 Profit 
+1	08-23-23	Bianca Brown	Jackson	Mississippi	South	United States	Accessories	Small Electronics	Phone Case	3	201.01	603.03	221.49
+2	12-20-24	Jared Edwards	Grand Rapids	Michigan	Centre	United States	Accessories	Small Electronics	Charging Cable	4	74.3	297.2	97.09
+3	01-29-24	Susan Valdez	Minneapolis	Minnesota	Centre	United States	Clothing & Apparel	Sportswear	Nike Air Force 1	1	68.19	68.19	25.47
+4	11-29-24	Tina Williams	Tallahassee	Florida	South	United States	Clothing & Apparel	Sportswear	Adidas Tracksuit	3	209.64	628.92	231.38
+5	09-21-23	Catherine Gordon	Baltimore	Maryland	East	United States	Accessories	Bags	Backpack	1	216.63	216.63	42.46
+6	10-18-24	Brittany Johnson	Boston	Massachusetts	East	United States	Electronics	Home Appliances	Instant Pot	1	701.15	701.15	90.63
+7	12-11-2024	Katie Rodriguez MD	Seattle	Washington	West	United States	Electronics	Wearables	Apple Watch	2	875.34	1750.68	320.37
+8	05-05-2023	John Davis	Tulsa	Oklahoma	South	United States	Clothing & Apparel	Men's Wear	Levi's Jeans	1	329.29	329.29	65.91
+9	10-25-23	Edward Hicks	Salt Lake City	Utah	West	United States	Clothing & Apparel	Footwear	Timberland Boots	2	115.35	230.7	87.44
+10	10-15-23	Carrie Cunningham	Fort Smith	Arkansas	South	United States	Electronics	Smartphones	Apple iPhone 14	5	509.51	2547.55	472.9
+11	06-28-23	Benjamin Smith	Rochester	New York	East	United States	Clothing & Apparel	Women's Wear	Old Navy Dress	2	365.12	730.24	220.43
+12	09-09-2023	Angela Manning	Augusta	Maine	East	United States	Accessories	Wearable Accessories	Watch Strap	1	124.92	124.92	24.65
+13	07-13-23	Brent Kirby	Boston	Massachusetts	East	United States	Electronics	Tablets	Samsung Galaxy Tab	2	717.06	1434.12	246.97
+14	10-14-23	Tiffany Spencer	Little Rock	Arkansas	South	United States	Clothing & Apparel	Kids Wear	Carter's Onesie	2	32.77	65.54	15.19
+15	06-21-24	Laura Baldwin	Aurora	Illinois	Centre	United States	Electronics	Tablets	Samsung Galaxy Tab	1	790.39	790.39	107.36
+16	10-09-2023	April Arnold	Atlanta	Georgia	South	United States	Home & Furniture	Storage	Storage Rack	1	70.27	70.27	16.25
+17	08-25-23	Jennifer Burton	Montgomery	Alabama	South	United States	Clothing & Apparel	Men's Wear	Levi's Jeans	1	96.81	96.81	22.57
+18	02-25-24	Kristin Evans	Santa Fe	New Mexico	West	United States	Clothing & Apparel	Men's Wear	GAP Hoodie	2	184.64	369.28	135.86
+19	01-14-23	Zachary Walker	Baton Rouge	Louisiana	South	United States	Clothing & Apparel	Footwear	Timberland Boots	1	104.5	104.5	21.17
+20	03-05-2023	Amanda Woodard	San Francisco	California	West	United States	Clothing & Apparel	Men's Wear	Levi's Jeans	1	59.75	59.75	13.47
+21	04-29-23	Melissa Sanchez	Milwaukee	Wisconsin	Centre	United States	Clothing & Apparel	Sportswear	Nike Air Force 1	5	269.05	1345.25	541.55
+22	01-08-2024	Brittany Colon	Los Angeles	California	West	United States	Electronics	Home Appliances	KitchenAid Mixer	1	844.67	844.67	106.63
+23	06-18-23	Matthew Thomas	San Francisco	California	West	United States	Accessories	Bags	Wallet	2	79.2	158.4	61.29
+24	12-27-23	James Flores	Los Angeles	California	West	United States	Accessories	Small Electronics	Power Bank	3	141.53	424.59	93.32
+25	02-18-24	Tricia Price	Annapolis	Maryland	East	United States	Home & Furniture	Storage	Storage Rack	2	618.88	1237.76	158.76
+26	06-14-23	Gabriel Gibson	Casper	Wyoming	West	United States	Accessories	Small Electronics	Power Bank	1	229.22	229.22	91.28
+27	10-30-23	Ryan Porter	Baltimore	Maryland	East	United States	Clothing & Apparel	Men's Wear	Levi's Jeans	1	390.32	390.32	92.92
+28	06-01-2024	James Cook	Columbia	South Carolina	South	United States	Electronics	Smartphones	Samsung Galaxy S23	4	705.81	2823.24	310.43
+29	03-31-24	Danny Johnson	Fayetteville	Arkansas	South	United States	Accessories	Bags	Tote Bag	2	142.69	285.38	125.15
+30	10-29-23	Shelia Mcpherson	Springfield	Illinois	Centre	United States	Home & Furniture	Bedding	Tempur-Pedic Mattress	1	888.42	888.42	247.36
+31	12-08-2023	Tiffany Collins	Wichita	Kansas	Centre	United States	Electronics	TVs & Audio	LG OLED TV	1	447.73	447.73	46.93
+32	10-03-2024	Carla Brown	Worcester	Massachusetts	East	United States	Electronics	Smartphones	Google Pixel 7	2	584.44	1168.88	132.27
+33	08-24-24	Karen Ryan	Virginia Beach	Virginia	South	United States	Home & Furniture	Home Decor	Throw Pillows	1	251.97	251.97	74.71
+34	07-04-2023	Raven Young	Baltimore	Maryland	East	United States	Accessories	Small Electronics	Power Bank	1	204.11	204.11	55.32
+35	01-13-24	Sheila Evans	Manchester	New Hampshire	East	United States	Electronics	Laptops	MacBook Air	1	652.49	652.49	71.62
+36	11-20-23	Shannon Blanchard	Dallas	Texas	South	United States	Clothing & Apparel	Kids Wear	Carter's Onesie	1	272.86	272.86	97.83
+37	10-30-23	Matthew Boone	Cedar Rapids	Iowa	Centre	United States	Home & Furniture	Kitchenware	KitchenAid Mixer	1	358.34	358.34	93.12
+38	03-29-23	Brandon Rivera	Kansas City	Missouri	Centre	United States	Clothing & Apparel	Footwear	Nike Running Shoes	1	213.71	213.71	42.76
+39	01-07-2023	Lori Cox	Tucson	Arizona	West	United States	Clothing & Apparel	Footwear	Nike Running Shoes	3	167.72	503.16	159.48
+40	02-21-24	Stacey Thomas	St. Paul	Minnesota	Centre	United States	Home & Furniture	Bedding	Brooklinen Sheets	2	721.82	1443.64	386.41
+41	08-26-23	Dominic Arnold	Dover	Delaware	East	United States	Clothing & Apparel	Kids Wear	Children's Hoodie	1	327.11	327.11	137.77
+42	11-11-2024	Angela Higgins	Philadelphia	Pennsylvania	East	United States	Electronics	Wearables	Apple Watch	1	205	205	35.63
+43	11-23-23	Jennifer Cruz	Billings	Montana	West	United States	Accessories	Wearable Accessories	Belt	5	73.97	369.85	86.49
+44	01-18-23	Lauren Ryan	Salt Lake City	Utah	West	United States	Clothing & Apparel	Kids Wear	Carter's Onesie	3	116.63	349.89	148.08
+45	12-01-2024	Stephen Robinson	Mesa	Arizona	West	United States	Accessories	Small Electronics	Charging Cable	2	91.28	182.56	37.02
+46	04-20-24	Patrick Johnson	Mobile	Alabama	South	United States	Home & Furniture	Kitchenware	Instant Pot	2	150.95	301.9	36.53
+47	04-19-24	Mr. Jeremy Shaw	Nashua	New Hampshire	East	United States	Electronics	Laptops	MacBook Air	3	1282.3	3846.9	761.16
+48	12-22-23	Elizabeth Guerra	Rapid City	South Dakota	Centre	United States	Clothing & Apparel	Kids Wear	Children's Hoodie	3	183.61	550.83	116.51
+49	04-03-2024	Krista Marshall	Billings	Montana	West	United States	Clothing & Apparel	Men's Wear	GAP Hoodie	5	24.55	122.75	47.1
+50	10-13-23	Jack Gonzalez	Detroit	Michigan	Centre	United States	Clothing & Apparel	Men's Wear	Under Armour T-Shirt	1	411.48	411.48	114.45
+51	01-27-24	Dustin Campbell	Annapolis	Maryland	East	United States	Electronics	Tablets	iPad Pro	2	576.92	1153.84	105.99
+52	12-10-2024	Cameron Norton	Los Angeles	California	West	United States	Clothing & Apparel	Kids Wear	Carter's Onesie	2	164.05	328.1	132.93
+53	07-19-24	Mark Davis	Providence	Rhode Island	East	United States	Home & Furniture	Furniture	Ashley Recliner	1	439.7	439.7	117.04
+54	10-15-23	Hector Lee	Chicago	Illinois	Centre	United States	Clothing & Apparel	Sportswear	Adidas Tracksuit	1	68.77	68.77	29.64
+55	12-01-2024	Lisa Castaneda	Boise	Idaho	West	United States	Clothing & Apparel	Women's Wear	Zara Blouse	2	21.72	43.44	11.6
+56	06-23-24	Mr. Daniel Johnson	Charleston	West Virginia	South	United States	Home & Furniture	Kitchenware	Instant Pot	1	612.6	612.6	120.12
+57	10-31-23	Justin Erickson	San Diego	California	West	United States	Home & Furniture	Furniture	IKEA Sofa	3	715.88	2147.64	275.89
+58	01-26-24	Manuel Hanson	Reno	Nevada	West	United States	Clothing & Apparel	Men's Wear	Levi's Jeans	1	348.33	348.33	121.62
+59	12-21-24	William Smith	New Orleans	Louisiana	South	United States	Electronics	Home Appliances	Instant Pot	1	407.44	407.44	46.45
+60	01-19-23	Lindsay Clay	Montpelier	Vermont	East	United States	Electronics	Laptops	MacBook Air	2	1042.05	2084.1	272.17
+61	01-29-23	Jordan Harvey	Pittsburgh	Pennsylvania	East	United States	Clothing & Apparel	Sportswear	Nike Air Force 1	1	102.96	102.96	32.49
+62	11-03-2023	Pamela Elliott	Charleston	West Virginia	South	United States	Home & Furniture	Home Decor	Vase	1	248.45	248.45	61.95
+63	01-13-24	Brianna Hamilton	Jacksonville	Florida	South	United States	Accessories	Wearable Accessories	Watch Strap	2	121.49	242.98	65.79
+64	03-17-23	Kimberly Watson	Lincoln	Nebraska	Centre	United States	Clothing & Apparel	Sportswear	Adidas Tracksuit	2	122.9	245.8	72.93
+65	09-26-23	Joe Campbell	Houston	Texas	South	United States	Home & Furniture	Home Decor	Wall Art	2	346.09	692.18	193.09
+66	12-12-2024	Noah Reilly	Chicago	Illinois	Centre	United States	Home & Furniture	Storage	Closet Organizer	2	311.24	622.48	196.01
+67	05-06-2024	Daniel Wells	Burlington	Vermont	East	United States	Clothing & Apparel	Sportswear	Nike Air Force 1	1	470.58	470.58	193.7
+68	12-21-23	Michael Lyons	Denver	Colorado	West	United States	Clothing & Apparel	Footwear	Nike Running Shoes	3	327.19	981.57	397.53
+69	10-02-2023	Juan Johnston	Des Moines	Iowa	Centre	United States	Home & Furniture	Kitchenware	KitchenAid Mixer	4	875.17	3500.68	993.02
+70	12-23-24	Anna White	Newark	New Jersey	East	United States	Clothing & Apparel	Women's Wear	Zara Blouse	1	139.8	139.8	43.82
+71	10-01-2023	Tiffany Williams	Bismarck	North Dakota	Centre	United States	Electronics	Laptops	MacBook Air	4	453.17	1812.68	155.73
+72	10-28-23	Cameron Pope	Mobile	Alabama	South	United States	Home & Furniture	Bedding	Tempur-Pedic Mattress	2	906.27	1812.54	606.34
+73	10-20-24	Jack House	Baltimore	Maryland	East	United States	Accessories	Small Electronics	Charging Cable	2	133.05	266.1	98.1
+74	11-25-23	Charles Black	Oklahoma City	Oklahoma	South	United States	Home & Furniture	Bedding	Brooklinen Sheets	3	257.56	772.68	97.75
+75	11-16-23	Paul Jenkins	Colorado Springs	Colorado	West	United States	Clothing & Apparel	Women's Wear	Old Navy Dress	3	205.49	616.47	215.53
+76	06-22-24	Jacob Davis	Springfield	Illinois	Centre	United States	Home & Furniture	Bedding	Brooklinen Sheets	2	449	898	246.34
+77	06-23-23	Matthew Vincent	Casper	Wyoming	West	United States	Electronics	Laptops	MacBook Air	1	779.15	779.15	133.9
+78	12-18-23	Calvin Young	Bismarck	North Dakota	Centre	United States	Electronics	Laptops	Lenovo ThinkPad	1	641.24	641.24	123.18
+79	11-15-24	Stephanie Flores	Spokane	Washington	West	United States	Clothing & Apparel	Kids Wear	Carter's Onesie	4	182.81	731.24	196.62
+80	12-13-23	Anna Wang	Houston	Texas	South	United States	Accessories	Bags	Wallet	2	91.01	182.02	87.29
+81	03-03-2023	Paul Ryan	Rochester	New York	East	United States	Electronics	Wearables	Fitbit Charge	1	385.05	385.05	42.21
+82	05-17-24	James White	Sacramento	California	West	United States	Home & Furniture	Home Decor	Vase	1	705.42	705.42	105.96
+83	12-03-2024	Michelle Hurley	Manchester	New Hampshire	East	United States	Home & Furniture	Furniture	IKEA Sofa	3	307.55	922.65	125.32
+84	04-09-2023	George James	New York City	New York	East	United States	Clothing & Apparel	Sportswear	Nike Air Force 1	2	113.58	227.16	85.46
+85	04-20-24	Taylor Hart	Fargo	North Dakota	Centre	United States	Clothing & Apparel	Women's Wear	Old Navy Dress	1	394.47	394.47	110.19
+86	12-10-2024	Robert Rowland	Cincinnati	Ohio	Centre	United States	Home & Furniture	Home Decor	Vase	1	342.55	342.55	85.98
+87	03-18-23	Sierra Thompson	Bismarck	North Dakota	Centre	United States	Electronics	TVs & Audio	Bose Soundbar	2	327.99	655.98	98.8
+88	11-25-24	Anthony Copeland	Annapolis	Maryland	East	United States	Electronics	Wearables	Apple Watch	2	698.21	1396.42	245.62
+89	11-01-2024	Keith Barnes	Tucson	Arizona	West	United States	Accessories	Bags	Wallet	2	114.16	228.32	42.63
+90	04-28-23	Elizabeth Turner	Colorado Springs	Colorado	West	United States	Clothing & Apparel	Footwear	Crocs	1	160.63	160.63	44.53
+91	11-10-2023	Heather Smith	Annapolis	Maryland	East	United States	Electronics	Tablets	Samsung Galaxy Tab	1	424.08	424.08	35.63
+92	10-27-24	Alexis Patel	Boise	Idaho	West	United States	Clothing & Apparel	Footwear	Nike Running Shoes	1	94.65	94.65	38.75
+93	12-04-2024	Robert Gordon	Lexington	Kentucky	South	United States	Accessories	Small Electronics	Phone Case	1	56.39	56.39	19.93
+94	12-18-23	Jonathan Hardy	Sioux Falls	South Dakota	Centre	United States	Home & Furniture	Home Decor	Wall Art	1	245.64	245.64	51.63
+95	01-22-23	Mark Torres	Chandler	Arizona	West	United States	Home & Furniture	Kitchenware	KitchenAid Mixer	2	345.38	690.76	99.86
+96	12-21-23	Pamela Robinson	Wichita	Kansas	Centre	United States	Accessories	Wearable Accessories	Watch Strap	1	61.12	61.12	24.41
+97	01-08-2024	Michael Moore	San Diego	California	West	United States	Clothing & Apparel	Women's Wear	Old Navy Dress	1	232.4	232.4	70.98
+98	07-02-2024	Oscar Mendez	San Francisco	California	West	United States	Electronics	Laptops	Dell XPS 13	1	246.99	246.99	32.53
+99	12-14-24	Daniel Delgado	Charleston	West Virginia	South	United States	Clothing & Apparel	Women's Wear	Old Navy Dress	3	119.17	357.51	101.92
+100	10-20-23	Jennifer Chang	Springfield	Illinois	Centre	United States	Accessories	Wearable Accessories	Belt	2	233.71	467.42	138.75
+101	06-04-2024	David Manning	Las Vegas	Nevada	West	United States	Home & Furniture	Kitchenware	Instant Pot	6	772.57	4635.42	1536.8
+102	09-03-2023	Kayla Melendez	Savannah	Georgia	South	United States	Clothing & Apparel	Kids Wear	Children's Hoodie	2	364.43	728.86	325.52
+103	07-18-24	Brenda Adkins	Jersey City	New Jersey	East	United States	Electronics	Laptops	Dell XPS 13	3	812.71	2438.13	462.72
+104	11-11-2024	Stephanie Keller	New Orleans	Louisiana	South	United States	Clothing & Apparel	Women's Wear	Old Navy Dress	3	235.05	705.15	298.92
+105	01-11-2023	Ellen Barnes	Topeka	Kansas	Centre	United States	Clothing & Apparel	Men's Wear	Levi's Jeans	2	316.23	632.46	237
+106	11-19-24	Melissa Reed	Boise	Idaho	West	United States	Home & Furniture	Bedding	Tempur-Pedic Mattress	3	665.51	1996.53	397.07
+107	11-30-23	Jennifer Farrell	Los Angeles	California	West	United States	Accessories	Small Electronics	Charging Cable	4	172.6	690.4	300.3
+108	02-09-2024	Thomas Montgomery	Manchester	New Hampshire	East	United States	Clothing & Apparel	Kids Wear	Carter's Onesie	2	327.31	654.62	141.69
+109	06-08-2023	Nicole Castillo	Milwaukee	Wisconsin	Centre	United States	Home & Furniture	Kitchenware	Instant Pot	1	611.41	611.41	117.41
+110	11-03-2024	Jeffrey Clarke	Chicago	Illinois	Centre	United States	Clothing & Apparel	Kids Wear	Children's Hoodie	1	356.39	356.39	140.73
+111	05-24-24	Katherine Miller	New York City	New York	East	United States	Electronics	Smartphones	Apple iPhone 14	3	699.43	2098.29	179.84
+112	11-13-23	Debbie Roberts MD	Des Moines	Iowa	Centre	United States	Electronics	Wearables	Fitbit Charge	2	291.95	583.9	90.6
+113	03-01-2024	Anthony Gill	Santa Fe	New Mexico	West	United States	Accessories	Wearable Accessories	Sunglasses	1	71.56	71.56	31.17
+114	11-06-2023	Richard Holland	Hartford	Connecticut	East	United States	Clothing & Apparel	Men's Wear	Under Armour T-Shirt	1	93.44	93.44	19.47
+115	01-03-2024	Daniel Bennett	Worcester	Massachusetts	East	United States	Electronics	Home Appliances	Instant Pot	4	772.1	3088.4	337
+116	05-19-24	John Hunter	Billings	Montana	West	United States	Accessories	Wearable Accessories	Sunglasses	2	99.15	198.3	91.63
+117	04-22-24	Patrick Jensen	Colorado Springs	Colorado	West	United States	Accessories	Small Electronics	Phone Case	1	182.62	182.62	83.04
+118	04-07-2024	Joseph Velazquez	Detroit	Michigan	Centre	United States	Home & Furniture	Kitchenware	Instant Pot	1	291.09	291.09	42.46
+119	08-31-24	Jennifer Santos	New Haven	Connecticut	East	United States	Electronics	Home Appliances	Instant Pot	1	633.2	633.2	117.59
+120	11-19-24	Robert Blankenship	Tallahassee	Florida	South	United States	Clothing & Apparel	Footwear	Nike Running Shoes	1	177.32	177.32	37.76
+121	04-29-23	Michael Baldwin	Columbia	South Carolina	South	United States	Clothing & Apparel	Sportswear	Nike Air Force 1	3	445.84	1337.52	479.64
+122	06-25-24	Kevin Cortez	Cedar Rapids	Iowa	Centre	United States	Clothing & Apparel	Sportswear	Adidas Tracksuit	1	425.83	425.83	98.74
+123	05-27-23	Laura Wilson	Indianapolis	Indiana	Centre	United States	Accessories	Wearable Accessories	Watch Strap	1	90.9	90.9	32.88
+124	12-27-23	Andre Colon	Boston	Massachusetts	East	United States	Home & Furniture	Bedding	Tempur-Pedic Mattress	2	472.85	945.7	131.55
+125	12-31-23	Maria Smith	Little Rock	Arkansas	South	United States	Accessories	Wearable Accessories	Watch Strap	2	224.59	449.18	197.96
+126	12-18-24	Rebecca Kelly	Lexington	Kentucky	South	United States	Clothing & Apparel	Footwear	Nike Running Shoes	1	197.2	197.2	73.3
+127	04-20-23	Jennifer Curry	Portland	Oregon	West	United States	Electronics	Smartphones	Samsung Galaxy S23	3	175.04	525.12	51.81
+128	11-05-2024	Dawn Barnes	Providence	Rhode Island	East	United States	Clothing & Apparel	Kids Wear	Carter's Onesie	1	137.54	137.54	32.91
+129	04-07-2024	Matthew Curtis	Denver	Colorado	West	United States	Clothing & Apparel	Kids Wear	Carter's Onesie	3	49.47	148.41	52.87
+130	07-31-24	Willie Crawford	Philadelphia	Pennsylvania	East	United States	Clothing & Apparel	Footwear	Crocs	4	339.52	1358.08	337.35
+131	06-01-2023	Emily Davis	Augusta	Maine	East	United States	Electronics	Tablets	iPad Pro	3	143.12	429.36	82.06
+132	06-17-24	John Bryan	Pittsburgh	Pennsylvania	East	United States	Clothing & Apparel	Footwear	Crocs	3	414.85	1244.55	252.3
+133	04-05-2023	William Sutton	Huntington	West Virginia	South	United States	Clothing & Apparel	Women's Wear	Old Navy Dress	1	103.84	103.84	29.73
+134	11-29-24	Jackie Fowler	St. Louis	Missouri	Centre	United States	Clothing & Apparel	Women's Wear	Old Navy Dress	2	30.71	61.42	17.6
+135	11-19-23	Danielle Stewart	Dover	Delaware	East	United States	Clothing & Apparel	Women's Wear	Zara Blouse	1	49.97	49.97	21.83
+136	08-28-24	Deborah Jarvis	New Haven	Connecticut	East	United States	Home & Furniture	Storage	Closet Organizer	3	414.37	1243.11	422.5
+137	06-15-23	Mr. Michael Larson	Cleveland	Ohio	Centre	United States	Accessories	Bags	Backpack	3	113.78	341.34	121.82
+138	05-12-2024	Barbara Davis	Aurora	Illinois	Centre	United States	Clothing & Apparel	Women's Wear	Old Navy Dress	2	21.77	43.54	10.18
+139	11-04-2024	Allen Graham	Worcester	Massachusetts	East	United States	Clothing & Apparel	Kids Wear	Children's Hoodie	3	239.86	719.58	226.12
+140	07-17-24	Dr. Renee Smith	Dover	Delaware	East	United States	Home & Furniture	Storage	Closet Organizer	4	533.95	2135.8	728.76
+141	03-23-24	Kayla Holmes	Fargo	North Dakota	Centre	United States	Home & Furniture	Kitchenware	Instant Pot	2	559.41	1118.82	201.88
+142	12-18-23	Michael Bruce	New Orleans	Louisiana	South	United States	Clothing & Apparel	Sportswear	Adidas Tracksuit	2	269.32	538.64	166.28
+143	08-26-23	Kimberly Brooks	Missoula	Montana	West	United States	Clothing & Apparel	Women's Wear	Old Navy Dress	1	184.39	184.39	71.48
+144	01-08-2024	Corey Booth	Little Rock	Arkansas	South	United States	Home & Furniture	Home Decor	Wall Art	1	897.23	897.23	308.5
+145	04-28-23	Brandon Chen	Columbia	South Carolina	South	United States	Accessories	Small Electronics	Charging Cable	2	214.05	428.1	141.17
+146	09-22-23	Dr. Alexandra Owen	Baltimore	Maryland	East	United States	Electronics	TVs & Audio	Sony Bravia TV	1	846.17	846.17	129.24
+147	03-20-23	Beth Perez	Sacramento	California	West	United States	Home & Furniture	Home Decor	Wall Art	4	309.73	1238.92	349.09
+148	02-09-2024	Anthony English	Houston	Texas	South	United States	Clothing & Apparel	Kids Wear	Children's Hoodie	2	44.5	89	34.38
+149	02-18-24	Mark Perez	Savannah	Georgia	South	United States	Accessories	Wearable Accessories	Belt	4	122.46	489.84	110.58
+150	11-09-2023	Curtis Wright	Fargo	North Dakota	Centre	United States	Electronics	Smartphones	Google Pixel 7	1	568.07	568.07	80.84
+151	10-13-23	John Ward	Spokane	Washington	West	United States	Clothing & Apparel	Kids Wear	Carter's Onesie	2	84.44	168.88	60.29
+152	04-24-24	Christian Sosa	Boston	Massachusetts	East	United States	Home & Furniture	Furniture	Office Chair	3	336.63	1009.89	129.3
+153	09-26-24	Donald Flores	Augusta	Maine	East	United States	Electronics	Smartphones	Apple iPhone 14	2	455.82	911.64	114.18
+154	01-14-24	Christopher Dunn	Tallahassee	Florida	South	United States	Home & Furniture	Furniture	Ashley Recliner	1	205.16	205.16	48.8
+155	10-24-24	Anna Garcia	Gulfport	Mississippi	South	United States	Home & Furniture	Storage	Storage Rack	1	475.05	475.05	159.26
+156	11-15-24	Michelle Roth	Salt Lake City	Utah	West	United States	Clothing & Apparel	Women's Wear	Zara Blouse	4	114.79	459.16	194.72
+157	10-09-2024	Lisa Rush	Tulsa	Oklahoma	South	United States	Home & Furniture	Kitchenware	Instant Pot	1	539.57	539.57	185.75
+158	11-03-2024	Emily Foley	Milwaukee	Wisconsin	Centre	United States	Home & Furniture	Kitchenware	Instant Pot	2	559.84	1119.68	160.65
+159	02-23-24	Teresa Figueroa	Newark	New Jersey	East	United States	Clothing & Apparel	Women's Wear	Old Navy Dress	1	345.66	345.66	98.5
+160	12-21-24	Lisa Barrett	Provo	Utah	West	United States	Clothing & Apparel	Men's Wear	Levi's Jeans	1	209.28	209.28	89.4
+161	10-23-24	Tiffany Cox	Wichita	Kansas	Centre	United States	Electronics	Tablets	Samsung Galaxy Tab	1	273.95	273.95	32.07
+162	08-01-2024	Jonathan Robertson	Glendale	Arizona	West	United States	Accessories	Bags	Backpack	2	91.81	183.62	82.37
+163	05-04-2023	Michael Myers	Lincoln	Nebraska	Centre	United States	Home & Furniture	Storage	Storage Rack	2	412.02	824.04	168.8
+164	11-04-2024	Dave Castillo	Nashua	New Hampshire	East	United States	Clothing & Apparel	Men's Wear	Under Armour T-Shirt	1	299.99	299.99	86.72
+165	07-12-2023	James Miller	Fayetteville	Arkansas	South	United States	Clothing & Apparel	Men's Wear	Under Armour T-Shirt	4	225.99	903.96	206.93
+166	01-29-24	Thomas Zuniga	Annapolis	Maryland	East	United States	Electronics	Smartphones	Apple iPhone 14	1	375.35	375.35	59.87
+167	07-25-23	Craig Contreras	Nashua	New Hampshire	East	United States	Home & Furniture	Furniture	IKEA Sofa	2	444.75	889.5	129.82
+168	11-18-24	Cynthia Moore	Virginia Beach	Virginia	South	United States	Clothing & Apparel	Kids Wear	Carter's Onesie	1	246.9	246.9	105.8
+169	08-26-23	Theresa Carter	Missoula	Montana	West	United States	Accessories	Bags	Backpack	1	248.14	248.14	72.99
+170	11-04-2023	Richard Brown	Augusta	Maine	East	United States	Clothing & Apparel	Women's Wear	Zara Blouse	1	157.62	157.62	53.47
+171	08-05-2023	Kristina Hanson	Wilmington	Delaware	East	United States	Electronics	Tablets	iPad Pro	3	557.83	1673.49	200.55
+172	09-17-24	Alexis Orr	Nashua	New Hampshire	East	United States	Home & Furniture	Kitchenware	Cookware Set	2	102.24	204.48	53.58
+173	02-12-2023	Alexis May	Manchester	New Hampshire	East	United States	Electronics	TVs & Audio	Bose Soundbar	1	458.31	458.31	59.48
+174	03-16-23	Carol Gray	St. Louis	Missouri	Centre	United States	Accessories	Bags	Tote Bag	2	106.51	213.02	56.16
+175	11-15-24	Dale Woods	Los Angeles	California	West	United States	Electronics	Home Appliances	Instant Pot	1	893.09	893.09	89.23
+176	12-01-2024	Christopher Stewart	Fayetteville	Arkansas	South	United States	Clothing & Apparel	Kids Wear	Children's Hoodie	2	202.06	404.12	85.03
+177	07-11-2024	Dennis Short	Tallahassee	Florida	South	United States	Clothing & Apparel	Footwear	Nike Running Shoes	1	114.01	114.01	48.32
+178	11-23-24	Victoria Smith	Indianapolis	Indiana	Centre	United States	Clothing & Apparel	Kids Wear	Children's Hoodie	1	350.89	350.89	126.27
+179	05-12-2023	Mary Jackson	St. Paul	Minnesota	Centre	United States	Home & Furniture	Storage	Closet Organizer	1	888.77	888.77	132.95
+180	11-07-2023	Cathy Mills	Colorado Springs	Colorado	West	United States	Clothing & Apparel	Footwear	Crocs	1	165.25	165.25	50.86
+181	12-14-23	Terri Ponce	Tucson	Arizona	West	United States	Electronics	Home Appliances	Instant Pot	1	281.96	281.96	46.6
+182	07-26-24	Brandon West	Seattle	Washington	West	United States	Home & Furniture	Bedding	Brooklinen Sheets	2	615.28	1230.56	257.32
+183	01-21-24	Brittany King MD	Hartford	Connecticut	East	United States	Home & Furniture	Kitchenware	Cookware Set	2	838.2	1676.4	408.84
+184	12-06-2023	Mr. Arthur Livingston	Burlington	Vermont	East	United States	Clothing & Apparel	Sportswear	Adidas Tracksuit	3	102.12	306.36	102.58
+185	11-06-2023	Michael Anderson	New York City	New York	East	United States	Home & Furniture	Home Decor	Throw Pillows	1	433.52	433.52	128.58
+186	11-20-24	Matthew Montgomery	Spokane	Washington	West	United States	Clothing & Apparel	Kids Wear	Carter's Onesie	3	71.9	215.7	83.62
+187	08-04-2023	Barry Russell	Provo	Utah	West	United States	Clothing & Apparel	Women's Wear	Zara Blouse	1	299.5	299.5	109.74
+188	10-10-2024	Lisa Nguyen	Seattle	Washington	West	United States	Accessories	Wearable Accessories	Belt	2	216.41	432.82	176.86
+189	12-29-23	Luis Duncan	Huntington	West Virginia	South	United States	Electronics	TVs & Audio	Sony Bravia TV	1	393.39	393.39	50.03
+190	03-05-2024	Amber Woodard	Madison	Wisconsin	Centre	United States	Accessories	Bags	Wallet	2	185.8	371.6	103.9
+191	11-13-23	Stacey Hayes	Providence	Rhode Island	East	United States	Clothing & Apparel	Footwear	Nike Running Shoes	3	423.85	1271.55	317.23
+192	06-16-23	Michael Medina	Wichita	Kansas	Centre	United States	Accessories	Wearable Accessories	Sunglasses	1	95.57	95.57	34.24
+193	07-01-2024	Jeremy Williams	Pittsburgh	Pennsylvania	East	United States	Home & Furniture	Home Decor	Wall Art	2	410.24	820.48	215
+194	09-07-2024	Diane Pena	Columbia	South Carolina	South	United States	Clothing & Apparel	Footwear	Timberland Boots	3	215.2	645.6	256.89
+195	11-25-24	Stephanie Roth	Missoula	Montana	West	United States	Accessories	Small Electronics	Phone Case	5	173.04	865.2	364.53
+196	02-20-23	Tammy Harrison	Burlington	Vermont	East	United States	Electronics	Smartphones	Samsung Galaxy S23	2	113.84	227.68	42.63
+197	06-18-23	Richard Armstrong	Rapid City	South Dakota	Centre	United States	Electronics	Laptops	Dell XPS 13	1	533.26	533.26	84.81
+198	11-06-2023	Stephanie Johnston	Denver	Colorado	West	United States	Electronics	Laptops	Dell XPS 13	2	838.81	1677.62	235.53
+199	04-16-23	Wanda Nelson	Lexington	Kentucky	South	United States	Clothing & Apparel	Kids Wear	Carter's Onesie	1	126.53	126.53	35.37
+200	06-24-24	Mary Johnson	Boise	Idaho	West	United States	Accessories	Bags	Backpack	2	93.98	187.96	57.37
+201	04-15-24	Daniel Porter	Fayetteville	Arkansas	South	United States	Home & Furniture	Storage	Closet Organizer	1	709.35	709.35	164.07
+202	11-14-23	Richard Shields	New York City	New York	East	United States	Clothing & Apparel	Men's Wear	Under Armour T-Shirt	1	38.21	38.21	16.76
+203	03-07-2023	Erik Jensen	Hartford	Connecticut	East	United States	Electronics	TVs & Audio	Bose Soundbar	1	701.19	701.19	91.25
+204	04-27-24	Gabrielle Brock	Nashua	New Hampshire	East	United States	Clothing & Apparel	Women's Wear	Old Navy Dress	1	27	27	5.54
+205	05-04-2023	Amanda Myers	Missoula	Montana	West	United States	Clothing & Apparel	Women's Wear	Zara Blouse	2	387.79	775.58	241.39
+206	05-25-24	Amy Adams	Los Angeles	California	West	United States	Home & Furniture	Kitchenware	Instant Pot	1	722.62	722.62	145.36
+207	06-28-24	Austin Odom	Provo	Utah	West	United States	Clothing & Apparel	Sportswear	Nike Air Force 1	6	302.55	1815.3	644.51
+208	12-13-24	Christina Pope	Reno	Nevada	West	United States	Home & Furniture	Bedding	Brooklinen Sheets	2	595.1	1190.2	258.48
+209	11-02-2024	Vanessa Hudson	Colorado Springs	Colorado	West	United States	Home & Furniture	Kitchenware	KitchenAid Mixer	4	270.14	1080.56	242.31
+210	10-08-2024	Tyler Thompson	Jacksonville	Florida	South	United States	Home & Furniture	Bedding	Tempur-Pedic Mattress	2	579.63	1159.26	189.81
+211	10-28-24	Larry Vargas	Worcester	Massachusetts	East	United States	Home & Furniture	Home Decor	Throw Pillows	1	635.23	635.23	143.08
+212	07-28-24	Jonathan Stewart	Fayetteville	Arkansas	South	United States	Home & Furniture	Kitchenware	Instant Pot	3	752.43	2257.29	771.81
+213	12-10-2024	Leah Smith	Richmond	Virginia	South	United States	Electronics	TVs & Audio	LG OLED TV	2	516.09	1032.18	205.81
+214	10-31-24	Dawn Mccormick	Sacramento	California	West	United States	Accessories	Wearable Accessories	Sunglasses	1	253.79	253.79	102.36
+215	10-05-2024	Donald Rodriguez	Seattle	Washington	West	United States	Accessories	Small Electronics	Phone Case	2	165.18	330.36	129.95
+216	12-13-23	Michelle Brown	Bismarck	North Dakota	Centre	United States	Clothing & Apparel	Women's Wear	Old Navy Dress	4	292.67	1170.68	325.96
+217	06-11-2023	Jenny Myers	Wilmington	Delaware	East	United States	Accessories	Wearable Accessories	Watch Strap	1	192.11	192.11	80.43
+218	11-03-2023	Brandon Kirk	Glendale	Arizona	West	United States	Accessories	Small Electronics	Phone Case	1	112.72	112.72	39.1
+219	11-09-2024	Adam Jacobs	Worcester	Massachusetts	East	United States	Clothing & Apparel	Sportswear	Adidas Tracksuit	4	85.81	343.24	137.08
+220	11-03-2024	Bryan Valdez	Virginia Beach	Virginia	South	United States	Clothing & Apparel	Footwear	Nike Running Shoes	3	401.07	1203.21	432.75
+221	03-03-2024	Travis Bright	Glendale	Arizona	West	United States	Electronics	Wearables	Apple Watch	2	590.56	1181.12	132.09
+222	10-21-24	Kayla Christensen	New Orleans	Louisiana	South	United States	Electronics	Wearables	Apple Watch	6	151.68	910.08	143.96
+223	10-30-23	Robert Jackson	Sacramento	California	West	United States	Clothing & Apparel	Men's Wear	Levi's Jeans	2	164.71	329.42	68.16
+224	10-14-23	Jacqueline Adams	Jacksonville	Florida	South	United States	Home & Furniture	Kitchenware	Instant Pot	3	531.89	1595.67	210.23
+225	11-01-2024	Dana Moore	Augusta	Maine	East	United States	Home & Furniture	Home Decor	Vase	1	753.89	753.89	177.22
+226	09-22-24	Patty Gallegos	New York City	New York	East	United States	Home & Furniture	Storage	Storage Rack	1	549.61	549.61	93.23
+227	09-16-23	Jennifer Nelson	Jersey City	New Jersey	East	United States	Home & Furniture	Storage	Storage Rack	2	539.01	1078.02	332.77
+228	12-30-23	Michael Aguilar	Springfield	Illinois	Centre	United States	Home & Furniture	Bedding	Brooklinen Sheets	4	161.04	644.16	192.91
+229	07-04-2023	Katherine Holland	Pittsburgh	Pennsylvania	East	United States	Accessories	Small Electronics	Phone Case	1	59.01	59.01	27.6
+230	06-19-24	Darryl Church	Chandler	Arizona	West	United States	Clothing & Apparel	Footwear	Nike Running Shoes	1	268.84	268.84	116.89
+231	11-02-2023	Lori Smith	Charleston	West Virginia	South	United States	Home & Furniture	Furniture	Dining Table Set	4	530.69	2122.76	657.04
+232	11-02-2024	Eric Bruce	Nashua	New Hampshire	East	United States	Accessories	Bags	Tote Bag	1	99.29	99.29	23.99
+233	05-15-23	Nancy Jackson	Milwaukee	Wisconsin	Centre	United States	Electronics	Smartphones	Apple iPhone 14	3	1141.65	3424.95	399.82
+234	11-10-2023	Ashley Bennett	Gulfport	Mississippi	South	United States	Electronics	Smartphones	Samsung Galaxy S23	2	545.4	1090.8	168.53
+235	12-04-2023	Shelly Conrad	Indianapolis	Indiana	Centre	United States	Home & Furniture	Storage	Storage Rack	1	56.57	56.57	9.76
+236	08-08-2024	Mr. Chad Ruiz	Tucson	Arizona	West	United States	Electronics	Tablets	Samsung Galaxy Tab	1	308.8	308.8	57.86
+237	12-19-24	Virginia Peck	Albuquerque	New Mexico	West	United States	Clothing & Apparel	Footwear	Nike Running Shoes	1	164.85	164.85	47.87
+238	10-01-2024	Andrew Stone	Billings	Montana	West	United States	Accessories	Small Electronics	Charging Cable	2	80.76	161.52	43.16
+239	12-14-24	Chad Powell	Cedar Rapids	Iowa	Centre	United States	Accessories	Small Electronics	Power Bank	1	52.68	52.68	15.08
+240	04-21-24	Heidi Norris	Springfield	Illinois	Centre	United States	Electronics	Wearables	Apple Watch	3	613.85	1841.55	349.34
+241	01-19-24	Matthew Woods	Huntsville	Alabama	South	United States	Accessories	Small Electronics	Phone Case	1	132.76	132.76	42.96
+242	12-05-2024	Robert Walter	Providence	Rhode Island	East	United States	Electronics	Home Appliances	KitchenAid Mixer	4	864.25	3457	644.83
+243	11-23-23	Timothy Irwin	Miami	Florida	South	United States	Home & Furniture	Kitchenware	Instant Pot	2	198.65	397.3	99.01
+244	10-31-24	Steve Cruz	Dallas	Texas	South	United States	Accessories	Small Electronics	Charging Cable	2	174.78	349.56	76.01
+245	04-22-23	Jennifer Wilson	Rochester	New York	East	United States	Clothing & Apparel	Kids Wear	Children's Hoodie	2	33.83	67.66	22.18
+246	12-05-2024	Scott Allen	Minneapolis	Minnesota	Centre	United States	Clothing & Apparel	Women's Wear	Old Navy Dress	2	308.13	616.26	130.97
+247	07-08-2023	Peter Valencia	Hartford	Connecticut	East	United States	Electronics	Wearables	Apple Watch	4	177.67	710.68	135.66
+248	07-17-24	Ralph Hickman	Salem	Oregon	West	United States	Clothing & Apparel	Kids Wear	Carter's Onesie	2	64.9	129.8	27.97
+249	07-30-24	Brianna Bailey	Sacramento	California	West	United States	Electronics	Tablets	iPad Pro	1	422.67	422.67	83.46
+250	05-08-2024	Douglas Weber	Wichita	Kansas	Centre	United States	Clothing & Apparel	Women's Wear	Zara Blouse	1	333.77	333.77	87.42
+251	10-08-2023	Aaron Reed	Fort Wayne	Indiana	Centre	United States	Home & Furniture	Storage	Closet Organizer	3	647.51	1942.53	628.47
+252	07-04-2023	Benjamin Wright	Virginia Beach	Virginia	South	United States	Electronics	Smartphones	Apple iPhone 14	3	835.99	2507.97	235.95
+253	09-10-2023	Roberto Valentine	Philadelphia	Pennsylvania	East	United States	Clothing & Apparel	Footwear	Nike Running Shoes	1	242.97	242.97	64.38
+254	05-15-24	Jeffrey Wood	Detroit	Michigan	Centre	United States	Home & Furniture	Kitchenware	Instant Pot	2	692.13	1384.26	313.27
+255	12-30-23	Michael King	Louisville	Kentucky	South	United States	Clothing & Apparel	Men's Wear	Levi's Jeans	2	317.86	635.72	191.38
+256	09-11-2024	Sarah Crawford	Montgomery	Alabama	South	United States	Clothing & Apparel	Sportswear	Adidas Tracksuit	2	212.73	425.46	143.74
+257	11-04-2024	Michael Ramirez	Little Rock	Arkansas	South	United States	Clothing & Apparel	Women's Wear	Zara Blouse	1	429.33	429.33	174.49
+258	10-21-23	Jean Murphy	New Haven	Connecticut	East	United States	Electronics	Tablets	iPad Pro	1	590.81	590.81	103.03
+259	10-18-24	Laura Wong	Little Rock	Arkansas	South	United States	Home & Furniture	Bedding	Tempur-Pedic Mattress	3	789.97	2369.91	632.02
+260	05-30-24	James Oliver	Cheyenne	Wyoming	West	United States	Clothing & Apparel	Kids Wear	Carter's Onesie	1	331.99	331.99	72.51
+261	02-16-24	Jeffrey Fritz	Worcester	Massachusetts	East	United States	Electronics	Wearables	Fitbit Charge	1	688.87	688.87	128.19
+262	09-02-2023	Ryan Willis	Newark	New Jersey	East	United States	Clothing & Apparel	Kids Wear	Carter's Onesie	2	41.48	82.96	17.79
+263	11-04-2023	Benjamin Martin	San Diego	California	West	United States	Clothing & Apparel	Kids Wear	Carter's Onesie	2	301.58	603.16	209.75
+264	08-23-24	Joseph Lee	Salem	Oregon	West	United States	Clothing & Apparel	Footwear	Timberland Boots	2	315.31	630.62	190.43
+265	09-17-23	Stacy Lewis	Cheyenne	Wyoming	West	United States	Accessories	Small Electronics	Charging Cable	2	69.71	139.42	50.25
+266	06-03-2023	Tammy Leonard	Wilmington	Delaware	East	United States	Home & Furniture	Bedding	Brooklinen Sheets	2	890.06	1780.12	464.44
+267	07-25-24	Michael Jones	Portland	Oregon	West	United States	Clothing & Apparel	Kids Wear	Children's Hoodie	3	335.64	1006.92	260.43
+268	10-10-2023	Kimberly Alvarado	Savannah	Georgia	South	United States	Electronics	Smartphones	Apple iPhone 14	2	358.74	717.48	107.1
+269	11-30-24	Edward Lee	Pittsburgh	Pennsylvania	East	United States	Electronics	TVs & Audio	Sony Bravia TV	1	499.78	499.78	63.74
+270	12-01-2024	Amanda Lee	Boise	Idaho	West	United States	Home & Furniture	Storage	Storage Rack	1	324.31	324.31	64.38
+271	12-26-23	Kelly Lynn	New York City	New York	East	United States	Electronics	Tablets	iPad Pro	1	631.97	631.97	76.32
+272	11-16-24	Jennifer Le	Lexington	Kentucky	South	United States	Clothing & Apparel	Sportswear	Adidas Tracksuit	2	263.04	526.08	151.57
+273	10-13-23	Courtney Barker	Hartford	Connecticut	East	United States	Electronics	Home Appliances	KitchenAid Mixer	2	344.73	689.46	60.73
+274	09-07-2023	Brenda Roach DVM	Topeka	Kansas	Centre	United States	Accessories	Wearable Accessories	Watch Strap	1	62.02	62.02	26.38
+275	02-04-2023	Jared Jenkins	Mobile	Alabama	South	United States	Electronics	Home Appliances	Dyson Vacuum	1	369.08	369.08	32.55
+276	11-22-24	Mark Stewart	Providence	Rhode Island	East	United States	Electronics	Laptops	Lenovo ThinkPad	2	972.39	1944.78	261.56
+277	04-01-2024	Jon Evans	Casper	Wyoming	West	United States	Clothing & Apparel	Men's Wear	Under Armour T-Shirt	2	82.96	165.92	60.91
+278	07-23-23	Thomas Moore	Philadelphia	Pennsylvania	East	United States	Accessories	Bags	Tote Bag	2	243.33	486.66	121.98
+279	04-22-23	Elizabeth Adams	Nashua	New Hampshire	East	United States	Electronics	TVs & Audio	LG OLED TV	1	644.29	644.29	60.66
+280	11-24-24	Timothy Grant	Birmingham	Alabama	South	United States	Home & Furniture	Kitchenware	Instant Pot	1	624.32	624.32	179.05
+281	11-04-2024	Matthew Reeves	Glendale	Arizona	West	United States	Accessories	Bags	Backpack	1	166.5	166.5	45.95
+282	12-31-24	Logan Ramirez	Salem	Oregon	West	United States	Electronics	Tablets	iPad Pro	2	336.7	673.4	75.61
+283	09-07-2024	Stephanie Lang	Kansas City	Missouri	Centre	United States	Home & Furniture	Storage	Storage Rack	1	880.61	880.61	283.53
+284	08-10-2024	Matthew Baker	Lincoln	Nebraska	Centre	United States	Clothing & Apparel	Women's Wear	Old Navy Dress	2	171.98	343.96	82.84
+285	06-24-23	Jeffrey George	Hartford	Connecticut	East	United States	Clothing & Apparel	Kids Wear	Children's Hoodie	2	339.87	679.74	158.36
+286	11-24-23	Mrs. Karen Drake MD	San Antonio	Texas	South	United States	Electronics	Wearables	Apple Watch	1	824.62	824.62	116.52
+287	11-14-24	David Luna	Spokane	Washington	West	United States	Electronics	TVs & Audio	Bose Soundbar	1	409.37	409.37	60.77
+288	12-31-23	Julie Keller	Mobile	Alabama	South	United States	Accessories	Bags	Backpack	1	124.63	124.63	59.59
+289	07-19-24	Logan Jennings	Tallahassee	Florida	South	United States	Home & Furniture	Kitchenware	Instant Pot	1	790.08	790.08	202.11
+290	12-27-24	Chelsey Lewis	Austin	Texas	South	United States	Clothing & Apparel	Sportswear	Adidas Tracksuit	1	448.71	448.71	116.77
+291	05-16-24	Luis Harris	Jacksonville	Florida	South	United States	Clothing & Apparel	Men's Wear	Levi's Jeans	1	213.45	213.45	80.97
+292	06-01-2023	Andrew Kim	Pittsburgh	Pennsylvania	East	United States	Home & Furniture	Bedding	Brooklinen Sheets	2	831.49	1662.98	321.96
+293	12-16-23	Daniel Sanford	Los Angeles	California	West	United States	Accessories	Bags	Wallet	2	199.55	399.1	136.23
+294	12-04-2023	Gary Raymond	Jersey City	New Jersey	East	United States	Home & Furniture	Storage	Closet Organizer	1	450.89	450.89	93.23
+295	02-15-23	Nicole Parker	Spokane	Washington	West	United States	Clothing & Apparel	Women's Wear	Old Navy Dress	1	233.37	233.37	46.97
+296	11-08-2024	Robert Nichols	Boise	Idaho	West	United States	Accessories	Bags	Tote Bag	1	106.06	106.06	42.57
+297	12-14-23	Paul Torres	Wichita	Kansas	Centre	United States	Clothing & Apparel	Sportswear	Nike Air Force 1	4	75.23	300.92	98.13
+298	09-26-23	Michael Perry	Boston	Massachusetts	East	United States	Accessories	Bags	Backpack	2	152.22	304.44	90.92
+299	04-13-24	Sherry Burgess	Wichita	Kansas	Centre	United States	Electronics	Laptops	MacBook Air	1	1032.48	1032.48	202.97
+300	01-31-23	Erik Waller	Milwaukee	Wisconsin	Centre	United States	Clothing & Apparel	Kids Wear	Carter's Onesie	2	40.32	80.64	31.78
+301	11-10-2024	Audrey Burke	Indianapolis	Indiana	Centre	United States	Home & Furniture	Bedding	Tempur-Pedic Mattress	1	907.01	907.01	148.79
+302	06-24-24	Cheryl Watson	Memphis	Tennessee	South	United States	Clothing & Apparel	Sportswear	Nike Air Force 1	1	396.39	396.39	163.01
+303	06-23-24	Brittany Ortiz	Augusta	Maine	East	United States	Electronics	Laptops	Dell XPS 13	3	706.4	2119.2	222.14
+304	08-23-23	Scott Mendoza	Reno	Nevada	West	United States	Clothing & Apparel	Sportswear	Nike Air Force 1	1	157.02	157.02	46.76
+305	05-07-2023	Jasmine Buchanan	Grand Rapids	Michigan	Centre	United States	Electronics	Smartphones	Apple iPhone 14	1	843.51	843.51	110.89
+306	06-16-24	Abigail Hines	Boise	Idaho	West	United States	Clothing & Apparel	Sportswear	Adidas Tracksuit	5	93.78	468.9	140.95
+307	04-19-24	Melissa Little	Cheyenne	Wyoming	West	United States	Clothing & Apparel	Women's Wear	Zara Blouse	3	303.96	911.88	292.22
+308	04-26-24	Robert Zuniga	Provo	Utah	West	United States	Electronics	Laptops	Dell XPS 13	1	276.91	276.91	45.9
+309	06-11-2024	Thomas Thomas	Portland	Oregon	West	United States	Clothing & Apparel	Men's Wear	Under Armour T-Shirt	2	175.14	350.28	145.58
+310	10-22-24	Kristen Castillo	Memphis	Tennessee	South	United States	Electronics	Tablets	Samsung Galaxy Tab	1	384.21	384.21	57.5
+311	04-29-24	Alexandra Anthony	Little Rock	Arkansas	South	United States	Clothing & Apparel	Sportswear	Adidas Tracksuit	1	335.32	335.32	117.58
+312	09-26-23	Joseph Navarro	Tucson	Arizona	West	United States	Electronics	Laptops	Lenovo ThinkPad	1	957.44	957.44	132.73
+313	10-06-2024	Michele Burns	Provo	Utah	West	United States	Home & Furniture	Home Decor	Wall Art	1	654.84	654.84	139.01
+314	10-18-23	Rebecca Santos	Cedar Rapids	Iowa	Centre	United States	Home & Furniture	Bedding	Tempur-Pedic Mattress	1	681.47	681.47	174.23
+315	09-29-23	Taylor Gray	Manchester	New Hampshire	East	United States	Electronics	Tablets	iPad Pro	4	522.66	2090.64	269.95
+316	09-08-2023	Joel Brown	Fayetteville	Arkansas	South	United States	Home & Furniture	Bedding	Tempur-Pedic Mattress	1	1134.39	1134.39	348.73
+317	01-15-23	Lee Hinton	Billings	Montana	West	United States	Accessories	Bags	Wallet	1	63.17	63.17	27.29
+318	06-20-23	Haley Craig	Des Moines	Iowa	Centre	United States	Electronics	Smartphones	Samsung Galaxy S23	1	555.24	555.24	56.34
+319	10-13-24	Kevin Garcia	Lincoln	Nebraska	Centre	United States	Electronics	Tablets	iPad Pro	2	773.46	1546.92	308.8
+320	10-31-23	Stacy Richards	Boston	Massachusetts	East	United States	Clothing & Apparel	Kids Wear	Children's Hoodie	1	63.85	63.85	26.95
+321	07-21-24	Cynthia Anderson	Wilmington	Delaware	East	United States	Accessories	Bags	Wallet	1	72.11	72.11	33.39
+322	11-15-24	Nicolas Holland MD	Pittsburgh	Pennsylvania	East	United States	Electronics	TVs & Audio	Sony Bravia TV	1	281.1	281.1	26.75
+323	06-01-2024	Cory Thomas	Augusta	Maine	East	United States	Accessories	Wearable Accessories	Sunglasses	2	182.86	365.72	132.18
+324	10-21-24	Joel Allen	Pittsburgh	Pennsylvania	East	United States	Accessories	Bags	Backpack	3	81.62	244.86	87.38
+325	02-19-23	Kevin Anthony DVM	San Francisco	California	West	United States	Clothing & Apparel	Sportswear	Nike Air Force 1	2	265.82	531.64	221.75
+326	09-01-2024	James Werner	Worcester	Massachusetts	East	United States	Accessories	Small Electronics	Phone Case	2	58.81	117.62	21.65
+327	10-16-23	Morgan Green	Miami	Florida	South	United States	Home & Furniture	Bedding	Tempur-Pedic Mattress	2	542.47	1084.94	144.77
+328	10-04-2023	Aaron Ramirez	Cincinnati	Ohio	Centre	United States	Clothing & Apparel	Sportswear	Adidas Tracksuit	1	30.93	30.93	13.56
+329	06-29-23	Sabrina Velasquez	Montpelier	Vermont	East	United States	Electronics	Smartphones	Apple iPhone 14	1	1132.54	1132.54	186.91
+330	05-08-2023	Christopher Crawford	Baltimore	Maryland	East	United States	Clothing & Apparel	Sportswear	Nike Air Force 1	2	141.92	283.84	110.68
+331	08-06-2024	Maria Mathews	Wilmington	Delaware	East	United States	Electronics	Wearables	Fitbit Charge	2	525.03	1050.06	145.85
+332	12-08-2023	Chris Wilkinson	Baltimore	Maryland	East	United States	Electronics	Smartphones	Samsung Galaxy S23	2	846.61	1693.22	235.46
+333	05-10-2023	Lindsay Hudson	Des Moines	Iowa	Centre	United States	Home & Furniture	Kitchenware	KitchenAid Mixer	1	621.4	621.4	153.98
+334	03-01-2024	Theresa Welch	Des Moines	Iowa	Centre	United States	Accessories	Small Electronics	Phone Case	1	122.05	122.05	35.71
+335	02-21-23	Rebecca Wells	Wilmington	Delaware	East	United States	Home & Furniture	Furniture	Office Chair	1	560.19	560.19	73.93
+336	12-26-23	Ashley Torres	Los Angeles	California	West	United States	Home & Furniture	Storage	Storage Rack	1	522.04	522.04	135.84
+337	04-04-2024	Robert Patton	Jersey City	New Jersey	East	United States	Electronics	Laptops	MacBook Air	4	434.35	1737.4	258.42
+338	07-17-23	David Bennett	Boise	Idaho	West	United States	Clothing & Apparel	Men's Wear	Levi's Jeans	2	60.42	120.84	28.9
+339	10-20-23	Calvin Smith	Billings	Montana	West	United States	Clothing & Apparel	Men's Wear	Levi's Jeans	1	91.24	91.24	39.99
+340	02-14-24	Sarah Beasley	Cleveland	Ohio	Centre	United States	Accessories	Bags	Backpack	4	233.91	935.64	361.94
+341	11-15-24	Daniel Juarez	Salt Lake City	Utah	West	United States	Electronics	Home Appliances	Instant Pot	2	359.89	719.78	90.72
+342	07-11-2023	Shannon Terrell	Missoula	Montana	West	United States	Clothing & Apparel	Kids Wear	Carter's Onesie	3	50.92	152.76	44.92
+343	02-10-2024	Sandra Ramirez	Topeka	Kansas	Centre	United States	Clothing & Apparel	Sportswear	Adidas Tracksuit	6	445.58	2673.48	1171.48
+344	09-28-23	Bradley Reynolds	Providence	Rhode Island	East	United States	Clothing & Apparel	Footwear	Nike Running Shoes	1	71.38	71.38	26.6
+345	08-18-24	Robert Martin	Topeka	Kansas	Centre	United States	Accessories	Wearable Accessories	Sunglasses	1	223.6	223.6	44.91
+346	08-16-23	James Walker	Worcester	Massachusetts	East	United States	Home & Furniture	Kitchenware	Instant Pot	1	654.45	654.45	129.51
+347	10-29-24	John Webb	Cheyenne	Wyoming	West	United States	Home & Furniture	Furniture	IKEA Sofa	1	430.77	430.77	116.16
+348	09-21-24	Joseph Williams	Little Rock	Arkansas	South	United States	Clothing & Apparel	Kids Wear	Carter's Onesie	2	375.09	750.18	248.68
+349	09-17-24	Desiree Garcia	St. Paul	Minnesota	Centre	United States	Electronics	Wearables	Apple Watch	2	143.75	287.5	50.35
+350	09-05-2023	Ann Miller	Sacramento	California	West	United States	Clothing & Apparel	Kids Wear	Children's Hoodie	1	291.61	291.61	91.17
+351	08-20-23	Michelle Clay	Cheyenne	Wyoming	West	United States	Clothing & Apparel	Women's Wear	Zara Blouse	2	307.09	614.18	162.21
+352	04-12-2024	Kayla Warner	Burlington	Vermont	East	United States	Accessories	Bags	Backpack	2	214.04	428.08	150.19
+353	06-07-2023	Abigail Morton	Las Vegas	Nevada	West	United States	Clothing & Apparel	Sportswear	Adidas Tracksuit	2	227.8	455.6	92.61
+354	09-20-24	Shawn Wilson	Detroit	Michigan	Centre	United States	Clothing & Apparel	Women's Wear	Old Navy Dress	1	326.05	326.05	136.37
+355	11-04-2024	Steven Ward	Memphis	Tennessee	South	United States	Electronics	Smartphones	Samsung Galaxy S23	1	755	755	84.66
+356	11-28-24	Larry Winters	Salem	Oregon	West	United States	Clothing & Apparel	Kids Wear	Carter's Onesie	1	352.44	352.44	107.94
+357	03-27-24	Kim Morgan	Reno	Nevada	West	United States	Electronics	TVs & Audio	Bose Soundbar	3	958.75	2876.25	392.03
+358	09-28-24	Teresa Gonzalez	Lexington	Kentucky	South	United States	Electronics	Laptops	Dell XPS 13	1	667.75	667.75	93.33
+359	11-18-23	Danielle Gordon	Hartford	Connecticut	East	United States	Clothing & Apparel	Footwear	Timberland Boots	2	77.71	155.42	35.96
+360	07-05-2024	Mason Booth	Augusta	Maine	East	United States	Home & Furniture	Storage	Storage Rack	4	826.71	3306.84	1148.93
+361	03-06-2023	Bridget Ritter	Nashua	New Hampshire	East	United States	Clothing & Apparel	Kids Wear	Children's Hoodie	2	50.74	101.48	29.24
+362	11-08-2024	Kim Holt	Nashua	New Hampshire	East	United States	Clothing & Apparel	Kids Wear	Children's Hoodie	2	304.84	609.68	205.6
+363	12-13-24	Benjamin Wong	Colorado Springs	Colorado	West	United States	Electronics	Laptops	Lenovo ThinkPad	1	618.68	618.68	102.57
+364	10-11-2023	Kenneth Spencer	Provo	Utah	West	United States	Accessories	Small Electronics	Phone Case	1	55.26	55.26	12.43
+365	04-10-2024	Erin Wallace	Cincinnati	Ohio	Centre	United States	Home & Furniture	Bedding	Tempur-Pedic Mattress	2	715.6	1431.2	389.73
+366	11-02-2024	Yolanda Williams	Newark	New Jersey	East	United States	Home & Furniture	Furniture	IKEA Sofa	4	979.52	3918.08	714.95
+367	11-15-23	Jeremy Watson	Indianapolis	Indiana	Centre	United States	Home & Furniture	Home Decor	Wall Art	1	153.73	153.73	41.35
+368	04-17-24	Sarah Gill	Pittsburgh	Pennsylvania	East	United States	Home & Furniture	Furniture	Dining Table Set	3	855.66	2566.98	515.73
+369	12-21-24	Kyle Spencer	Chandler	Arizona	West	United States	Electronics	Smartphones	Apple iPhone 14	1	833.02	833.02	112.88
+370	11-03-2023	Tammy Morgan	Huntsville	Alabama	South	United States	Home & Furniture	Kitchenware	Instant Pot	1	441.62	441.62	124.76
+371	11-25-23	Alexis Krueger	Newark	New Jersey	East	United States	Electronics	Smartphones	Samsung Galaxy S23	2	312.75	625.5	105.79
+372	11-02-2024	Terri Perez MD	Mesa	Arizona	West	United States	Accessories	Wearable Accessories	Sunglasses	1	116.76	116.76	55.31
+373	11-16-24	Kimberly Weaver	Grand Rapids	Michigan	Centre	United States	Home & Furniture	Bedding	Tempur-Pedic Mattress	1	1021.69	1021.69	314.23
+374	10-02-2023	Janet Thomas	Jersey City	New Jersey	East	United States	Electronics	Smartphones	Samsung Galaxy S23	2	856.49	1712.98	274.82
+375	12-23-23	Crystal Sandoval	Reno	Nevada	West	United States	Accessories	Wearable Accessories	Belt	2	111.57	223.14	53.54
+376	11-04-2023	Latasha Conner	Glendale	Arizona	West	United States	Electronics	Smartphones	Apple iPhone 14	2	919.84	1839.68	180.92
+377	09-28-23	Tyler Barker	Hartford	Connecticut	East	United States	Electronics	Tablets	iPad Pro	1	204.66	204.66	22.67
+378	12-14-24	Lisa Bradley	Provo	Utah	West	United States	Clothing & Apparel	Footwear	Timberland Boots	5	335.18	1675.9	655.64
+379	09-23-24	Christopher Haley	Sioux Falls	South Dakota	Centre	United States	Accessories	Bags	Backpack	1	171.54	171.54	41.15
+380	12-26-23	Daniel Smith	St. Paul	Minnesota	Centre	United States	Clothing & Apparel	Kids Wear	Children's Hoodie	1	327.46	327.46	130.43
+381	11-24-23	Brittany Green	Albuquerque	New Mexico	West	United States	Clothing & Apparel	Sportswear	Nike Air Force 1	2	416.62	833.24	223.04
+382	11-13-23	Crystal Gregory	Jersey City	New Jersey	East	United States	Clothing & Apparel	Men's Wear	Under Armour T-Shirt	1	42.36	42.36	12.78
+383	11-17-24	Beverly Wolf	Billings	Montana	West	United States	Home & Furniture	Bedding	Brooklinen Sheets	2	466.34	932.68	256.02
+384	09-16-23	Joanne Mcknight	Provo	Utah	West	United States	Accessories	Small Electronics	Charging Cable	3	176.54	529.62	167.68
+385	12-09-2024	Denise Taylor	Fayetteville	Arkansas	South	United States	Clothing & Apparel	Men's Wear	Levi's Jeans	1	152.08	152.08	47.27
+386	11-22-24	Joseph Johnson	Providence	Rhode Island	East	United States	Electronics	Home Appliances	Instant Pot	2	393.86	787.72	100.49
+387	11-21-23	Mary Lopez	Austin	Texas	South	United States	Clothing & Apparel	Women's Wear	Zara Blouse	1	311.21	311.21	85.2
+388	01-12-2023	Shawn Anderson	Annapolis	Maryland	East	United States	Home & Furniture	Bedding	Tempur-Pedic Mattress	2	452.33	904.66	188.15
+389	03-19-24	Michael King	Cheyenne	Wyoming	West	United States	Home & Furniture	Storage	Closet Organizer	1	613.54	613.54	212.45
+390	12-20-24	Mark Scott	Oklahoma City	Oklahoma	South	United States	Home & Furniture	Home Decor	Vase	1	461.82	461.82	125.38
+391	05-14-23	James Torres	Dover	Delaware	East	United States	Clothing & Apparel	Men's Wear	GAP Hoodie	2	239.29	478.58	169.09
+392	04-18-23	Diane Bradley	Tucson	Arizona	West	United States	Home & Furniture	Furniture	IKEA Sofa	4	615.87	2463.48	320.05
+393	11-24-23	Mark Jackson	Tucson	Arizona	West	United States	Clothing & Apparel	Kids Wear	Carter's Onesie	2	159.68	319.36	97.29
+394	11-11-2024	William Gross	Manchester	New Hampshire	East	United States	Home & Furniture	Furniture	Ashley Recliner	2	589.99	1179.98	407.07
+395	06-01-2023	Andre Long	Montpelier	Vermont	East	United States	Electronics	Smartphones	Samsung Galaxy S23	1	917.64	917.64	89.48
+396	11-18-24	Richard Stephens	Baton Rouge	Louisiana	South	United States	Home & Furniture	Home Decor	Wall Art	4	849.37	3397.48	712.07
+397	11-11-2024	Tracy Lewis	Oklahoma City	Oklahoma	South	United States	Electronics	Wearables	Apple Watch	2	703.71	1407.42	243.97
+398	11-28-23	Dana Fleming	Chandler	Arizona	West	United States	Accessories	Small Electronics	Phone Case	2	195.56	391.12	101.88
+399	01-28-24	Megan Long	Salem	Oregon	West	United States	Clothing & Apparel	Sportswear	Nike Air Force 1	3	24.18	72.54	21.14
+400	08-01-2024	Joseph Bentley	Madison	Wisconsin	Centre	United States	Accessories	Small Electronics	Charging Cable	2	127.32	254.64	85.71
+401	03-18-23	Robert Pennington	Missoula	Montana	West	United States	Clothing & Apparel	Sportswear	Adidas Tracksuit	1	192.25	192.25	70.37
+402	12-24-24	Wendy Decker	Salt Lake City	Utah	West	United States	Accessories	Wearable Accessories	Belt	1	203.25	203.25	96.36
+403	05-21-24	Evelyn Hernandez MD	Philadelphia	Pennsylvania	East	United States	Electronics	Smartphones	Apple iPhone 14	2	558.1	1116.2	123.58
+404	10-02-2023	Miss Ashley Patterson MD	Jersey City	New Jersey	East	United States	Electronics	Smartphones	Samsung Galaxy S23	3	512.49	1537.47	289.25
+405	02-12-2024	Chad Carter	Miami	Florida	South	United States	Home & Furniture	Furniture	Dining Table Set	2	814.76	1629.52	323.25
+406	09-17-23	Beverly Gray	Memphis	Tennessee	South	United States	Electronics	Wearables	Fitbit Charge	2	219.2	438.4	54.53
+407	09-25-23	Daniel Bowers	Nashua	New Hampshire	East	United States	Home & Furniture	Kitchenware	Instant Pot	1	483.16	483.16	139.41
+408	06-11-2024	Kiara Brady	Denver	Colorado	West	United States	Accessories	Wearable Accessories	Sunglasses	3	203.1	609.3	303.53
+409	05-06-2023	Stephen Grant	Orlando	Florida	South	United States	Electronics	Smartphones	Samsung Galaxy S23	4	960.53	3842.12	377.44
+410	08-16-24	Andrea Rodriguez	Dover	Delaware	East	United States	Home & Furniture	Storage	Storage Rack	2	659.62	1319.24	412.3
+411	06-01-2023	Jacqueline Huerta	Dallas	Texas	South	United States	Clothing & Apparel	Women's Wear	Zara Blouse	2	447.72	895.44	402.7
+412	11-20-23	Kimberly Mullen	Pittsburgh	Pennsylvania	East	United States	Home & Furniture	Home Decor	Vase	1	273.75	273.75	88.91
+413	10-26-24	Matthew Howard	Montpelier	Vermont	East	United States	Home & Furniture	Storage	Storage Rack	3	542.08	1626.24	354.33
+414	11-25-24	Suzanne Cisneros	Montpelier	Vermont	East	United States	Clothing & Apparel	Footwear	Nike Running Shoes	3	413.36	1240.08	372.91
+415	12-30-23	Anthony Alexander	Augusta	Maine	East	United States	Clothing & Apparel	Women's Wear	Zara Blouse	3	463.2	1389.6	560.19
+416	02-01-2023	Virginia Frederick	Sacramento	California	West	United States	Electronics	Tablets	iPad Pro	3	833.22	2499.66	205.27
+417	04-09-2024	Miss Shannon Harrison	Las Vegas	Nevada	West	United States	Clothing & Apparel	Men's Wear	Under Armour T-Shirt	2	323.79	647.58	173.41
+418	11-01-2023	Jordan Goodman	Denver	Colorado	West	United States	Clothing & Apparel	Footwear	Nike Running Shoes	3	264.09	792.27	324.12
+419	10-13-24	Trevor Conley	Pittsburgh	Pennsylvania	East	United States	Accessories	Small Electronics	Phone Case	1	213.82	213.82	82.14
+420	05-17-23	Nancy Long	Huntsville	Alabama	South	United States	Home & Furniture	Storage	Closet Organizer	2	470.21	940.42	220.59
+421	04-21-24	Kristy Martin	Albuquerque	New Mexico	West	United States	Clothing & Apparel	Kids Wear	Carter's Onesie	3	469.91	1409.73	442.3
+422	09-27-24	David Lopez	Montpelier	Vermont	East	United States	Clothing & Apparel	Men's Wear	Levi's Jeans	2	410.08	820.16	181.78
+423	09-24-23	Amy Burke	Hartford	Connecticut	East	United States	Clothing & Apparel	Men's Wear	Levi's Jeans	3	264.99	794.97	325.14
+424	08-16-23	Christopher Hammond	Lexington	Kentucky	South	United States	Clothing & Apparel	Kids Wear	Children's Hoodie	2	319.03	638.06	196.7
+425	12-17-24	Christina Fuller	Wilmington	Delaware	East	United States	Electronics	Home Appliances	Instant Pot	2	445.59	891.18	175.06
+426	11-01-2024	Jack Shaw	Montpelier	Vermont	East	United States	Electronics	Tablets	iPad Pro	1	321.55	321.55	50.73
+427	05-13-23	Nicholas Lawrence	Fargo	North Dakota	Centre	United States	Home & Furniture	Home Decor	Wall Art	5	818.99	4094.95	940.67
+428	06-01-2023	Ms. Carmen Townsend	Albuquerque	New Mexico	West	United States	Accessories	Wearable Accessories	Watch Strap	2	68.78	137.56	39.52
+429	07-28-23	Tyler Gibson	Topeka	Kansas	Centre	United States	Clothing & Apparel	Sportswear	Adidas Tracksuit	1	237.45	237.45	100.87
+430	02-21-24	Tara Armstrong	Bismarck	North Dakota	Centre	United States	Clothing & Apparel	Kids Wear	Carter's Onesie	1	316.59	316.59	80.62
+431	11-22-24	Megan Frederick	Dover	Delaware	East	United States	Home & Furniture	Bedding	Tempur-Pedic Mattress	1	987.59	987.59	238.09
+432	12-29-23	Matthew Coffey	Cheyenne	Wyoming	West	United States	Clothing & Apparel	Sportswear	Adidas Tracksuit	2	365.18	730.36	177.65
+433	04-27-23	Christopher Carlson	Atlanta	Georgia	South	United States	Home & Furniture	Bedding	Tempur-Pedic Mattress	1	823.76	823.76	105.13
+434	01-06-2024	Crystal Johnson	Lincoln	Nebraska	Centre	United States	Electronics	Laptops	Dell XPS 13	1	699.39	699.39	84.24
+435	05-13-23	Anna Crawford	Sioux Falls	South Dakota	Centre	United States	Electronics	TVs & Audio	Sony Bravia TV	1	613.58	613.58	121.92
+436	10-17-24	Paul Stevenson	Minneapolis	Minnesota	Centre	United States	Home & Furniture	Home Decor	Throw Pillows	2	336.71	673.42	120.96
+437	03-31-24	Joanna Taylor	Miami	Florida	South	United States	Clothing & Apparel	Women's Wear	Old Navy Dress	2	383.58	767.16	217.41
+438	02-01-2024	Calvin Colon	Memphis	Tennessee	South	United States	Home & Furniture	Kitchenware	Instant Pot	7	669.37	4685.59	658.69
+439	04-17-24	Lindsay Martinez	Miami	Florida	South	United States	Electronics	Tablets	iPad Pro	1	189.11	189.11	33.22
+440	11-07-2023	Kristy Cook	Milwaukee	Wisconsin	Centre	United States	Accessories	Small Electronics	Phone Case	2	206.27	412.54	151.38
+441	06-14-23	Pam Harrington	Sioux Falls	South Dakota	Centre	United States	Electronics	Smartphones	Google Pixel 7	5	830.19	4150.95	577.74
+442	07-07-2024	Eric Doyle	Philadelphia	Pennsylvania	East	United States	Electronics	TVs & Audio	Sony Bravia TV	1	1002.56	1002.56	127.28
+443	11-02-2023	Robert Perry	Jersey City	New Jersey	East	United States	Electronics	TVs & Audio	Bose Soundbar	3	854.68	2564.04	492.29
+444	11-18-24	Yvette Ochoa	Boise	Idaho	West	United States	Clothing & Apparel	Kids Wear	Carter's Onesie	2	336.57	673.14	173.58
+445	11-17-23	Jerry White	Fort Wayne	Indiana	Centre	United States	Home & Furniture	Kitchenware	KitchenAid Mixer	1	255.1	255.1	62.82
+446	11-07-2023	Patrick Rodriguez	Des Moines	Iowa	Centre	United States	Accessories	Bags	Wallet	2	148.91	297.82	144.56
+447	05-11-2024	Vickie Smith	Boise	Idaho	West	United States	Accessories	Bags	Wallet	1	145.75	145.75	59.13
+448	05-29-24	Ralph Holland	Casper	Wyoming	West	United States	Clothing & Apparel	Footwear	Crocs	2	249.59	499.18	204.29
+449	05-22-24	Darlene Myers	Aurora	Illinois	Centre	United States	Clothing & Apparel	Kids Wear	Children's Hoodie	1	92.04	92.04	31.68
+450	10-31-23	Trevor Lindsey	Rapid City	South Dakota	Centre	United States	Accessories	Small Electronics	Phone Case	3	75.74	227.22	85.27
+451	04-09-2024	Craig Garcia	Montpelier	Vermont	East	United States	Electronics	Tablets	iPad Pro	3	343.21	1029.63	135.71
+452	10-14-23	Donald Martin	Omaha	Nebraska	Centre	United States	Home & Furniture	Kitchenware	KitchenAid Mixer	5	375.45	1877.25	380.55
+453	10-24-23	David Williams	Columbus	Ohio	Centre	United States	Accessories	Small Electronics	Phone Case	2	144.78	289.56	105.86
+454	11-24-23	Christopher Simmons	Mobile	Alabama	South	United States	Clothing & Apparel	Footwear	Timberland Boots	2	292.83	585.66	191.35
+455	11-30-23	Stephen Peterson	Jersey City	New Jersey	East	United States	Home & Furniture	Storage	Storage Rack	1	239.92	239.92	56.91
+456	05-18-24	Sara Marshall	Missoula	Montana	West	United States	Electronics	TVs & Audio	LG OLED TV	1	246.9	246.9	39.01
+457	11-13-24	Michael Wright	Dover	Delaware	East	United States	Home & Furniture	Bedding	Brooklinen Sheets	1	519.43	519.43	83.61
+458	11-02-2024	Patricia Waters	Grand Rapids	Michigan	Centre	United States	Clothing & Apparel	Men's Wear	GAP Hoodie	4	86.18	344.72	149.52
+459	02-18-23	Joshua Mcintyre	New Haven	Connecticut	East	United States	Home & Furniture	Kitchenware	Cookware Set	2	476.72	953.44	200.51
+460	11-07-2024	Mckenzie Juarez	Jersey City	New Jersey	East	United States	Electronics	Home Appliances	KitchenAid Mixer	1	673.14	673.14	58.78
+461	11-03-2023	Ian Williams	Boise	Idaho	West	United States	Accessories	Bags	Tote Bag	2	121.33	242.66	99.52
+462	10-20-23	Peter Ortiz	Phoenix	Arizona	West	United States	Electronics	TVs & Audio	LG OLED TV	1	841.6	841.6	104.96
+463	07-12-2024	Mary Macdonald	Orlando	Florida	South	United States	Home & Furniture	Kitchenware	KitchenAid Mixer	1	766.67	766.67	99.43
+464	06-26-24	David Mitchell	Little Rock	Arkansas	South	United States	Electronics	Laptops	MacBook Air	2	1077.56	2155.12	389.27
+465	09-15-24	Cheryl Jones	Nashua	New Hampshire	East	United States	Electronics	Laptops	MacBook Air	3	987.33	2961.99	336.92
+466	02-14-24	Julia Kemp	San Francisco	California	West	United States	Clothing & Apparel	Women's Wear	Zara Blouse	1	168.35	168.35	55.33
+467	06-07-2023	Danielle Malone	Santa Fe	New Mexico	West	United States	Accessories	Wearable Accessories	Watch Strap	1	246.07	246.07	108.97
+468	01-08-2024	Robert Davis	Nashua	New Hampshire	East	United States	Home & Furniture	Storage	Storage Rack	3	600.81	1802.43	340.08
+469	10-21-23	Tiffany Marshall	Baltimore	Maryland	East	United States	Home & Furniture	Kitchenware	Instant Pot	2	580.07	1160.14	376.38
+470	04-04-2024	Theresa Whitney	Santa Fe	New Mexico	West	United States	Home & Furniture	Furniture	IKEA Sofa	1	263.58	263.58	71.57
+471	11-17-24	Patrick Werner	Oklahoma City	Oklahoma	South	United States	Accessories	Bags	Tote Bag	1	141.02	141.02	48.27
+472	07-19-24	Tara Anderson	Billings	Montana	West	United States	Clothing & Apparel	Women's Wear	Zara Blouse	1	94.04	94.04	38.94
+473	09-14-24	Amanda Guzman	Burlington	Vermont	East	United States	Electronics	Home Appliances	Instant Pot	2	575.81	1151.62	137.42
+474	05-20-24	Paul Watson	Springfield	Illinois	Centre	United States	Home & Furniture	Furniture	Ashley Recliner	2	673.83	1347.66	349.93
+475	07-18-24	Max Hopkins	Newark	New Jersey	East	United States	Electronics	Laptops	Dell XPS 13	1	903.09	903.09	172.72
+476	12-19-24	Tara Vincent	Tampa	Florida	South	United States	Clothing & Apparel	Women's Wear	Zara Blouse	1	321.91	321.91	77.19
+477	11-25-24	Sarah Smith	Jersey City	New Jersey	East	United States	Clothing & Apparel	Women's Wear	Old Navy Dress	1	204.37	204.37	74.04
+478	09-22-23	Chase Davidson	Providence	Rhode Island	East	United States	Accessories	Small Electronics	Phone Case	5	139.27	696.35	212.18
+479	10-24-24	Joshua Walker	Rapid City	South Dakota	Centre	United States	Clothing & Apparel	Kids Wear	Children's Hoodie	1	165.73	165.73	48.67
+480	06-17-23	Crystal Williams	Salem	Oregon	West	United States	Clothing & Apparel	Sportswear	Nike Air Force 1	1	152.7	152.7	66.44
+481	08-23-23	Cathy Hayes	Knoxville	Tennessee	South	United States	Clothing & Apparel	Sportswear	Nike Air Force 1	4	254.1	1016.4	282.42
+482	11-03-2023	Amanda Mckinney	Fargo	North Dakota	Centre	United States	Electronics	TVs & Audio	LG OLED TV	2	606.32	1212.64	200.65
+483	03-16-23	Raymond Bolton	San Antonio	Texas	South	United States	Home & Furniture	Storage	Closet Organizer	1	774.78	774.78	136.56
+484	09-04-2024	Nicole Levy	San Diego	California	West	United States	Accessories	Wearable Accessories	Belt	2	98.98	197.96	79.75
+485	10-09-2024	Jonathan Hall	Tucson	Arizona	West	United States	Clothing & Apparel	Footwear	Nike Running Shoes	1	105.52	105.52	30.9
+486	12-30-24	Amanda Porter	Seattle	Washington	West	United States	Accessories	Small Electronics	Power Bank	2	237.38	474.76	115.54
+487	03-09-2024	Alvin Herrera	Reno	Nevada	West	United States	Accessories	Bags	Tote Bag	1	113.51	113.51	25.92
+488	06-27-24	Harry Johnson	Montpelier	Vermont	East	United States	Electronics	TVs & Audio	LG OLED TV	1	127.64	127.64	16.97
+489	11-17-23	Miss Danielle Lewis	St. Paul	Minnesota	Centre	United States	Accessories	Bags	Tote Bag	2	145.95	291.9	88.08
+490	09-29-23	Christopher Walker	Wichita	Kansas	Centre	United States	Clothing & Apparel	Kids Wear	Children's Hoodie	1	351.3	351.3	142.21
+491	03-04-2024	Tracy Fischer	Topeka	Kansas	Centre	United States	Clothing & Apparel	Kids Wear	Children's Hoodie	1	61.63	61.63	24.49
+492	11-01-2024	Rachel Pineda	Indianapolis	Indiana	Centre	United States	Clothing & Apparel	Sportswear	Adidas Tracksuit	1	161.11	161.11	48.34
+493	01-12-2024	Nathan Reyes	Burlington	Vermont	East	United States	Home & Furniture	Furniture	Office Chair	1	411.15	411.15	74.36
+494	12-12-2024	Robert Farley	Philadelphia	Pennsylvania	East	United States	Accessories	Wearable Accessories	Sunglasses	1	88.29	88.29	28.48
+495	09-27-23	Kyle Lopez	Boise	Idaho	West	United States	Home & Furniture	Furniture	Office Chair	1	910.59	910.59	126.93
+496	11-15-24	Rebekah Salazar	Los Angeles	California	West	United States	Clothing & Apparel	Men's Wear	Under Armour T-Shirt	2	137.78	275.56	123.8
+497	11-15-24	Kenneth Johnston	Wilmington	Delaware	East	United States	Clothing & Apparel	Sportswear	Adidas Tracksuit	1	392.41	392.41	108.07
+498	12-18-24	Gary Curtis	Manchester	New Hampshire	East	United States	Accessories	Wearable Accessories	Watch Strap	2	137.3	274.6	66.42
+499	12-30-23	William Cooper	Aurora	Illinois	Centre	United States	Clothing & Apparel	Kids Wear	Children's Hoodie	2	284.18	568.36	247
