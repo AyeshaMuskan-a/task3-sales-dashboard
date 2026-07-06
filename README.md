@@ -52,7 +52,7 @@ task3-sales-dashboard/
 │   └── Task3_Sales_Dashboard_Summary.pptx
 │
 ├── images/
-│   └── dashboard_preview.png
+│   └── sales_img.png
 │
 └── README.md
 ```
@@ -93,8 +93,7 @@ task3-sales-dashboard/
 ---
 
 ## 📊 Dashboard Preview
-
-![Dashboard Preview](images/dashboard_preview.png)
+https://github.com/AyeshaMuskan-a/task3-sales-dashboard/blob/main/sales_img.png
 
 ---
 
@@ -104,30 +103,6 @@ task3-sales-dashboard/
 * A small group of products drives a large share of total revenue
 * Regional performance varies significantly, guiding where to focus growth efforts
 * A few key customers contribute a disproportionate share of revenue
-
----
-
-## ⚙️ How to Run
-
-**1. Clone the repository**
-```
-git clone https://github.com/AyeshaMuskan-a/task3-sales-dashboard.git
-cd task3-sales-dashboard
-```
-
-**2. Run SQL queries**
-* Open `/sql/sales_queries.sql` in your SQL client and execute
-
-**3. Run Python analysis**
-```
-python python/analysis.py
-```
-
-**4. Open the Power BI dashboard**
-* Open `/dashboard/Sales_Performance_Dashboard.pbix` in Power BI Desktop
-
-**5. View the stakeholder summary**
-* Open `/ppt/Task3_Sales_Dashboard_Summary.pptx`
 
 ---
 
